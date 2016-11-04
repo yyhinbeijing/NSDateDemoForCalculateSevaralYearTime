@@ -3,7 +3,7 @@
 //  NSDateDemoTests
 //
 //  Created by 阳永辉 on 2016/11/3.
-//  Copyright © 2016年 netposa. All rights reserved.
+//  Copyright © 2016年 yangyonghui. All rights reserved.
 //
 
 #import <XCTest/XCTest.h>
